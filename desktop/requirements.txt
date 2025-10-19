@@ -1,0 +1,10 @@
+# PyQt6 and core dependencies
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.2
+PyQt6-sip==13.8.0
+
+# HTTP requests for device communication
+requests==2.31.0
+
+# System utilities
+psutil==6.1.0
